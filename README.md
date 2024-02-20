@@ -1,4 +1,4 @@
-# Robotics_2-_Group_Laboratory
+# ARTICULATED_GROUP 6
 Members:
 
 Louwella Abong
