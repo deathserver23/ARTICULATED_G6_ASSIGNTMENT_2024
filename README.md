@@ -1,4 +1,4 @@
-# Robotics_2-_Group_Laboratory
+# ARTICULATED_G6_ASSIGNMENT_2024
 Members:
 
 Louwella Abong
