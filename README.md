@@ -1,10 +1,10 @@
 # Robotics_2-_Group_Laboratory
 Members:
 
-Louwella Abong
+Louwella Abong (PL)
 
-Angela Atienza
+Angela Atienza (PQ)
 
-Stanlee Marasigan
+Stanlee Marasigan (PP)
 
-Shervin Reyes
+Shervin Reyes (PS)
